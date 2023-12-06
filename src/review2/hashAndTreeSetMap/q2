@@ -1,0 +1,7 @@
+(1) distinct values/keys
+(2) Given a big-O requirement and the task, determine the best structure to use.
+    For examples:
+    - all distinct values without worrying about order - HashSet
+    - count of each distinct value sorted by the distint value - TreeSet
+(3)
+(4)

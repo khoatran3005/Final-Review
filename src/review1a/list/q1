@@ -1,0 +1,7 @@
+(1) know which structure is good for what? Scenarios will be given, choose the right structure.
+    Examples:
+    - If data need to inserted at the start frequently, which is better, array list or linked list?
+    - which data structure is used to determine whether parentheses are balanced?
+    - etc.
+(2) queue is linked list, stack is array list
+(3) Given a segment of code, know the outcome (such as list content or output of the code).
